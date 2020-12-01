@@ -1,0 +1,95 @@
+<!--Developer: Rudolph Paulin,IS117-001, Fall 2020 -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <style>
+
+    </style>
+    <img src="Organization's%20logo.jpg" alt="Logo of the organization" class="top">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>About us</title>
+    <link rel="stylesheet" href="Second.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css" rel="stylesheet">
+</head>
+
+<header>
+
+</header>
+<nav id="mobile_menu"></nav>
+<nav id="nav_menu">
+    <ul>
+        <li><a href="index.html" class="Same">Home</a></li>
+        <li><a href="about us.html">About us</a>
+            <ul>
+                <li><a href="#history">Our History</a></li>
+                <li><a href="#work">Our Work</a> </li>
+            </ul>
+        <li><a href="ph vid.html">Photos</a></li>
+        <li><a href="action.html">Take Action</a>
+        <li><a href="contact.html">Contact</a>
+        </li>
+    </ul>
+    <nav class="search">
+        <form action="#">
+            <label>
+                <input type="text" placeholder="Search" name="search">
+            </label>
+            <button>
+                <i class="fa fa-search" style="font-size: 18px;"></i>
+            </button>
+        </form>
+    </nav>
+</nav>
+<main>
+    <section>
+        <h2>
+            About Us
+        </h2>
+        <!-- I do not use Lorem ipsum by imagining the mission of a simulation NGO -->
+        <p id="imp"> Hope is a Christian organization that addresses the physical, emotional and spiritual needs of the people around the world</p>
+        <h2>Our History</h2>
+        <p id="history">The world is sick. A lot of people around in this planet have an enormous amount of endurance, hope and dignity. They need help to fight against poverty, diseases,injustice even unemployment.</p>
+    <p>Hope was founded in 2002. Headquartered in Union New Jersey, we are a non-profit organization
+    containing the following EIN Number:00-0000000. This organization has moved beyond the failed models of charity.
+    We inspire hope and we create hope models that allow people to create their own hope for their futures
+    We believe the only (greatest) help is to permit others to develop their own lives so that they are free of outside
+    support.</p>
+        <h2>Our Work</h2>
+        <p id="work"> Hope provides clean water,transportation, agriculture, huge housing and excellent financing opportunities in many underdeveloped countries.
+        <br>A lot of poor countries have gone though hurricanes, cholera, civil unrest and even earthquake.
+        We have not stayed indifferent. We have empowered the suffered. Everyday because of our exceptional work,
+        someone gets a better future in this world. Hope reaches out to every single person that needs help in this world.
+        Hope is the solution.</p>
+    </section>
+
+    <aside>
+
+    </aside>
+
+</main>
+<footer class="footer">
+    <p class="footer__title">Hope</p>
+    <div class="footer__social">
+        <a href="#" class="footer__icon"><i class='bx bxl-facebook' ></i></a>
+        <a href="#" class="footer__icon"><i class='bx bxl-instagram' ></i></a>
+        <a href="#" class="footer__icon"><i class='bx bxl-twitter' ></i></a>
+    </div>
+    <p>&#169; 2020 Copyright all right reserved</p>
+</footer>
+<body>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous">
+</script>
+<script src="js/jquery.slicknav.min.js"></script>
+<script>
+    $(document).ready(function(){
+        $('#nav_menu').slicknav({prependTo: '#mobile_menu'});
+    });
+
+</script>
+</body>
+

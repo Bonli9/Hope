@@ -1,0 +1,228 @@
+/*Developer: Rudolph Paulin,IS117-001, Fall 2020 */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+:root{
+    --header-height: 13em;
+    --font-semi: 600;
+}
+
+
+
+
+@media screen and (min-width: 768px){
+    :root{
+        --big-font-size: 3.5rem;
+        --h2-font-size: 2rem;
+        --normal-font-size: 1rem;
+    }
+}
+
+:root{
+    --mb-1: 0.5rem;
+    --mb-2: 1rem;
+    --mb-3: 1.5rem;
+    --mb-4: 2rem;
+    --mb-5: 2.5rem;
+    --mb-6: 3rem;
+}
+
+:root{
+    --z-back: -10;
+    --z-normal: 1;
+    --z-tooltip: 10;
+    --z-fixed: 100;
+}
+*,::before,::after{
+    box-sizing: border-box;
+}
+html {
+    background-color: darkslategray;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    width: 800px;
+    color: white;
+}
+
+a:hover, a:focus {
+    font-style: italic;
+}
+
+header {
+    padding: 1px 0 5em;
+
+
+
+}
+
+
+.top{
+    position: absolute;
+    max-width: 60px;
+    box-shadow: 5px 5px 0;
+}
+div.gallery{
+    margin: 5px;
+    border:1px solid #ccc;
+    float:left;
+    width:180px;
+}
+div.gallery:hover{
+    border:1px solid #777;
+
+}
+
+
+
+aside img{
+    float: left;
+    width: 300px;
+    padding: 0 10px 10px;
+}
+
+h2{
+    text-align: left;
+    margin-left: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+p{
+    margin-left: 100px;
+    font-size: 20px;
+    position: relative;
+}
+
+#nav_menu {
+    position: relative;
+    margin-left: 80px;
+    margin-top: -70px;
+    margin-right: -80px;
+    left: 40px;
+}
+#mobile_menu{
+    display: none;
+;
+}
+#nav_menu ul {
+    position: relative;
+    list-style-type: none;
+    margin: 0;
+    padding: -10px;
+}
+
+#nav_menu ul li {
+    width: 20%;
+    float: left;
+}
+
+#nav_menu ul li a {
+    display: block;
+    text-align: center;
+    padding: 1em 0;
+    text-decoration: none;
+    background-color:white;
+    color: green;
+    font-weight: bold;
+}
+
+#nav_menu ul li a.current {
+    color: yellow;
+}
+
+#nav_menu ul ul {
+    width: 100%;
+    display: none;
+    position: absolute;
+    top: 100%;
+}
+
+#nav_menu ul ul li {
+    float: none;
+
+}
+
+#nav_menu ul li:hover > ul {
+    display: block;
+}
+
+#nav_menu ul::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+
+
+.search{
+    float: right;
+    margin-left:0;
+    max-width: 100%;
+    font-size: 10px;
+
+}
+.search button{
+    background-color: green;
+    color: #f2f2f2;
+    float: right;
+    padding: 0 5px;
+    margin-right: 0;
+    font-size:20px;
+    border:none;
+    cursor: pointer;
+
+}
+
+
+.footer{
+    background-color: white;
+    color: green;
+    text-align: center;
+    font-weight: var(--font-semi);
+    padding:1rem 0;
+    margin-right: -550px;
+    margin-left: -10px;
+    margin-bottom: -10px;
+    position: absolute;
+    bottom:-950px;
+    width:100%
+}
+.footer__title{
+    font-size: 2rem;
+    margin-bottom: var(--mb-4);
+    text-align: center;
+}
+.footer__social{
+    margin-bottom: var(--mb-4);
+}
+.footer__icon {
+    font-size: 1.5rem;
+    color: green;
+    margin: 0 var(--mb-2);
+}
+.contact__form{
+    width: 360px;
+}
+.contact__container{
+    justify-items: center;
+}
+.contact__input{
+    width: 100%;
+    font-size: 15px;
+    font-weight:normal;
+    padding: 1rem;
+    border-radius: .5rem;
+    outline: none;
+    margin-bottom: var(--mb-4);
+    float: right;
+    margin-top: -20px;
+}
+.contact__button{
+    display: block;
+    border: none;
+    outline: none;
+    font-size: var(--normal-font-size);
+    cursor: pointer;
+    margin-left: auto;
+
+}
