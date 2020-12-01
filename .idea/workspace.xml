@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4df63735-a1d8-4fd3-81be-413eedd2bdde" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4df63735-a1d8-4fd3-81be-413eedd2bdde" name="Default Changelist" comment="Get things in order" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +48,7 @@
       <workItem from="1606411509009" duration="15239000" />
       <workItem from="1606501899161" duration="36248000" />
       <workItem from="1606746524018" duration="1539000" />
-      <workItem from="1606830190713" duration="7061000" />
+      <workItem from="1606830190713" duration="7539000" />
     </task>
     <task id="LOCAL-00001" summary="Get things in order">
       <created>1606836922801</created>
@@ -66,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606838071186</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Get things in order">
+      <created>1606839172775</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606839172775</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,10 +86,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="100" key="#HTTP_Proxy/0.0.1366.728@0.0.1366.728" timestamp="1606535385956" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1606838069080">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1606839057358">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1606838069080" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1606839057358" />
+    <state x="129" y="55" key="DiffContextDialog" timestamp="1606839045922">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="55" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1606839045922" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1605480258189">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -97,10 +106,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="536" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1606836468013" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1606838101498">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1606839210546">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606838101498" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606839210546" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1606838991071">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
