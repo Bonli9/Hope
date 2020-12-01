@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4df63735-a1d8-4fd3-81be-413eedd2bdde" name="Default Changelist" comment="" />
+    <list default="true" id="4df63735-a1d8-4fd3-81be-413eedd2bdde" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Organization's logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/around the world.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aspired athletes.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beautiful smiles.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/breaking barriers.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/care.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/children in the orphanage.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clean water.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donate now.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helping.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/impact.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kenyan arts.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love everywhere.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/love.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/medcare.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/medical care.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new building.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orphanage.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/our doctors.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spreading love.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spreading.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +38,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kHmSZQfcsmtwUOawtPKmMAdd2O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,7 +71,7 @@
       <workItem from="1606411509009" duration="15239000" />
       <workItem from="1606501899161" duration="36248000" />
       <workItem from="1606746524018" duration="1539000" />
-      <workItem from="1606830190713" duration="3458000" />
+      <workItem from="1606830190713" duration="4947000" />
     </task>
     <servers />
   </component>
@@ -60,6 +87,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605480258189" />
+    <state x="561" y="262" key="Github.ShareDialog" timestamp="1606836444468">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="561" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1606836444468" />
+    <state x="536" y="69" key="Github.UntrackedFilesDialog" timestamp="1606836468013">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="536" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1606836468013" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1606514637963">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
