@@ -3,27 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="4df63735-a1d8-4fd3-81be-413eedd2bdde" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Organization's logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/around the world.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aspired athletes.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/beautiful smiles.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/breaking barriers.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/care.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/children in the orphanage.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clean water.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/donate now.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helping.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/impact.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kenyan arts.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/love everywhere.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/love.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/medcare.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/medical care.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new building.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/orphanage.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/our doctors.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spreading love.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spreading.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/First.css" beforeDir="false" afterPath="$PROJECT_DIR$/First.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Second.css" beforeDir="false" afterPath="$PROJECT_DIR$/Second.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/action.html" beforeDir="false" afterPath="$PROJECT_DIR$/action.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ph vid.html" beforeDir="false" afterPath="$PROJECT_DIR$/ph vid.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,18 +57,34 @@
       <workItem from="1606411509009" duration="15239000" />
       <workItem from="1606501899161" duration="36248000" />
       <workItem from="1606746524018" duration="1539000" />
-      <workItem from="1606830190713" duration="4947000" />
+      <workItem from="1606830190713" duration="6006000" />
     </task>
+    <task id="LOCAL-00001" summary="Get things in order">
+      <created>1606836922801</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606836922801</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Get things in order" />
+    <option name="LAST_COMMIT_MESSAGE" value="Get things in order" />
   </component>
   <component name="WindowStateProjectService">
     <state x="462" y="100" key="#HTTP_Proxy" timestamp="1606535385956">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="100" key="#HTTP_Proxy/0.0.1366.728@0.0.1366.728" timestamp="1606535385956" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1606836920525">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1606836920525" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1605480258189">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -95,6 +97,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="536" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1606836468013" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1606836934692">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606836934692" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1606514637963">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

@@ -62,7 +62,7 @@ header {
     margin-left: -380px;
 }
 body {
-    background-image:url("around the world.jpg");
+    background-image:url("Images/around the world.jpg");
     background-size: cover;
     text-align: center;
     font-weight: var(--font-semi);
